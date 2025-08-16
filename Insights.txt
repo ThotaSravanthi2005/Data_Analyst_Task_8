@@ -1,0 +1,23 @@
+📊 Sales Dashboard Insights
+
+1.Regional Performance:
+
+  The West region recorded the highest sales (~0.73M).
+
+  The South region had the lowest sales (~0.39M), showing room for improvement.
+
+2.Category Performance:
+
+  Technology is the leading category, contributing ~36.4% of total sales.
+
+  Furniture and Office Supplies contribute almost equally (~32% each).
+
+3.Sales Trend Over Time:
+
+  Sales show a steady upward trend from 2014 to 2017.
+
+  The highest monthly sales peaked around late 2017 (~41K).
+
+4.Key Takeaway:
+
+  The business is growing steadily, with strong sales in the West region and Technology category driving performance.
