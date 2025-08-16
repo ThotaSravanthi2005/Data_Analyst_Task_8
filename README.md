@@ -17,7 +17,7 @@ The objective of this task was to create a **simple interactive sales dashboard*
 3. Sales show a **steady upward trend** from 2014 to 2017, peaking in late 2017 (~41K in a single month).  
 4. Business growth is strongly driven by **Technology products** and the **West region**.  
 ## 📂 Deliverables
-- **Dashboard Screenshot/PDF** 
+- **Dashboard Screenshot** 
 - **Insights Text File (Insights.txt)** 
 - **Dataset (Sample-Superstore.csv)** 
 - **README.md (this file)**  
